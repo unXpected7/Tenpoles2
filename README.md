@@ -1,3 +1,3 @@
 # Tenpoles2
 
-The project for make Proggressive Web using Expo based Typescript
+The project for BUILD Proggressive Web  using Expo and React native based Typescript
