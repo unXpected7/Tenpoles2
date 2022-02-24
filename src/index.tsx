@@ -53,7 +53,11 @@ import {
         showAnimation();
         setActive(next);
       });
-      
+      useEffect(() => {
+        if(active != 0) {
+          triggerAnimation
+        }
+      },[active]);
     };
   
     const width = useWindowDimensions().width;
